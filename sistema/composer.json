@@ -1,0 +1,15 @@
+{
+    "name": "mateu/sistema",
+    "autoload": {
+        "psr-4": {
+            "Mateu\\Sistema\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mateus Nunes",
+            "email": "mateus.santos@ifto.edu.br"
+        }
+    ],
+    "require": {}
+}
